@@ -1,2 +1,5 @@
 # Some Games in C
-## Games of words
+- ### Game of words
+- ### Tic Tac Toe
+- ### the hangman
+- ### Stone Paper Scissors
